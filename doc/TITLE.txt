@@ -1,0 +1,2 @@
+TAB_TITLE_PREFFIX = -保密系统
+WINDOW_TITLE_PREFFIX = -非涉密终端保密监管检查系统
